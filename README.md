@@ -16,7 +16,7 @@ This library is `FontLCD`. Just use it like you would `pyb.LCD`.
 Example
 -------
 
-```
+```python
 import fontlcd
 
 lcd = fontlcd.FontLCD('X')
