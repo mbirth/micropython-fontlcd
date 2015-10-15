@@ -12,6 +12,10 @@ line breaks, etc..
 
 This library is `FontLCD`. Just use it like you would `pyb.LCD`.
 
+And this is what it looks like:
+
+![](doc/example.jpg)
+
 
 Example
 -------
